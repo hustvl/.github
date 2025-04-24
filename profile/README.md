@@ -1,9 +1,9 @@
 
-# Welcome to the Research Group of Prof. Xinggang Wang @ HUST!
+# Welcome to the Vision Lab @ HUST!
 
 ## 🙋‍♀️ Introduction
 
-Hello! This is the GitHub space for the research group led by **Professor Xinggang Wang**. We are based at the **Artificial Intelligence Institute, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST)**.
+Hello! This is the GitHub space for the **Vision Lab** led by **Professor Xinggang Wang**. We are based at the **Artificial Intelligence Institute, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST)**.
 
 Our research focuses on **computer vision and deep learning**. We are particularly interested in:
 * Multimodal Foundation Models
