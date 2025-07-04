@@ -13,7 +13,7 @@ Our research focuses on **computer vision and deep learning**. We are particular
 * Novel Neural Architectures
 
 
-Our group strives to push the boundaries of visual intelligence and has produced highly influential works in the field, including [CCNet](https://github.com/speedinghzl/CCNet), [Mask Scoring R-CNN](https://github.com/zjhuang22/maskscoring_rcnn), [FairMOT](https://github.com/ifzhang/FairMOT), [ByteTrack](https://github.com/FoundationVision/ByteTrack), [EVA](https://github.com/baaivision/EVA), [MapTR](https://github.com/hustvl/MapTR), [Vectorized Autonomous Driving (VAD)](https://github.com/hustvl/VAD), [Vision Mamba (Vim)](https://github.com/hustvl/Vim), [4D Gaussian Splatting (4DGS)](https://github.com/hustvl/4DGaussians), [YOLO-World](https://github.com/AILab-CVC/YOLO-World), and [LightningDiT & VA-VAE](https://github.com/hustvl/LightningDiT).
+Our group strives to push the boundaries of visual intelligence and has produced highly influential works in the field, including [CCNet](https://github.com/speedinghzl/CCNet), [Mask Scoring R-CNN](https://github.com/zjhuang22/maskscoring_rcnn), [FairMOT](https://github.com/ifzhang/FairMOT), [ByteTrack](https://github.com/FoundationVision/ByteTrack), [EVA](https://github.com/baaivision/EVA), [MapTR](https://github.com/hustvl/MapTR), [Vectorized Autonomous Driving (VAD)](https://github.com/hustvl/VAD), [DiffusionDrive](https://github.com/hustvl/DiffusionDrive), [Vision Mamba (Vim)](https://github.com/hustvl/Vim), [4D Gaussian Splatting (4DGS)](https://github.com/hustvl/4DGaussians), [YOLOS](https://github.com/hustvl/YOLOS), [YOLO-World](https://github.com/AILab-CVC/YOLO-World), and [LightningDiT & VA-VAE](https://github.com/hustvl/LightningDiT).
 
 ## 🌈 Contribution Guidelines & Collaboration
 
