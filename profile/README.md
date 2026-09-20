@@ -3,7 +3,7 @@
 
 ## 🙋‍♀️ Introduction
 
-Hello! This is the GitHub space for the **Vision Lab** led by **Professor [Xinggang Wang](https://xwcv.github.io/index.htm)**. We are based at the **Artificial Intelligence Institute, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST)**.
+Hello! This is the GitHub space for the **Vision Lab** led by **Professor [Xinggang Wang](https://xwcv.github.io)**. We are based at the **Artificial Intelligence Institute, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST)**.
 
 Our research focuses on **computer vision and deep learning**. We are particularly interested in:
 * Multimodal Foundation Models
